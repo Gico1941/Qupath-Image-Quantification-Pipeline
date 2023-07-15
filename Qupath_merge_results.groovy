@@ -1,4 +1,4 @@
-#Combine annotations into one file
+//Combine annotations into one file
  String ext = '.txt' // File extension to search for
  	String delimiter = '\t' // Use tab-delimiter (this is for the *input*, not the output)
  	String outputName = 'Combined_results.csv' // Name to use for output; use .csv if you really want comma separators
