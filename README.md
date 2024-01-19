@@ -96,4 +96,4 @@ def name = getProjectEntry().getImageName() + '.txt'
 
 6.Run the Qupath_merge_results.groovy to generate .csv file that integrates all statistics of the project
 
-7.Downstream visualization 
+7.Downstream statistical result visualization 
