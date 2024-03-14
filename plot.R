@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggsignif)
 
 
-file <- '103&117/Combined_results_117_tpex.csv'
+file <- 'result.csv'
 
 
 
